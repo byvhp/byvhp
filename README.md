@@ -1,16 +1,16 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <img src="./assets/profile-dark.svg" width="1080" alt="Vahap Efe Pala — İnönü Üniversitesi Bilgisayar Mühendisliği öğrencisi. C, C++, Java, Python, TypeScript ve React Native. Animasyonlu ASCII gezegenli kişisel profil.">
+</picture>
 
-<!--
-**byvhp/byvhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hakkımda
 
-Here are some ideas to get you started:
+Ben **Vahap Efe Pala**. Malatya İnönü Üniversitesi’nde **Bilgisayar Mühendisliği** okuyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programlama dilleri:** C, C++, Java, Python, TypeScript
+- **Framework:** React Native
+
+---
+
+[GitHub](https://github.com/byvhp) · [Projelerim](https://github.com/byvhp?tab=repositories)
